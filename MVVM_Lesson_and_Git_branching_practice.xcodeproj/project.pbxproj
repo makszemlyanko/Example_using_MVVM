@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1517C8EC28CB5AB8009D3AE2 /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1517C8EB28CB5AB8009D3AE2 /* Box.swift */; };
 		155C24CA28C9E4340067DACE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155C24C928C9E4340067DACE /* AppDelegate.swift */; };
 		155C24CC28C9E4340067DACE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155C24CB28C9E4340067DACE /* SceneDelegate.swift */; };
 		155C24D128C9E4340067DACE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 155C24CF28C9E4340067DACE /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1517C8EB28CB5AB8009D3AE2 /* Box.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
 		155C24C628C9E4340067DACE /* MVVM_Lesson_and_Git_branching_practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVM_Lesson_and_Git_branching_practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		155C24C928C9E4340067DACE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		155C24CB28C9E4340067DACE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				155C250C28CA29330067DACE /* Storyboards */,
 				155C24D228C9E4360067DACE /* Assets.xcassets */,
 				155C24D728C9E4360067DACE /* Info.plist */,
+				1517C8EB28CB5AB8009D3AE2 /* Box.swift */,
 			);
 			path = MVVM_Lesson_and_Git_branching_practice;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				155C24E328CA01030067DACE /* Profile.swift in Sources */,
 				155C24E028C9E71E0067DACE /* TableViewController.swift in Sources */,
 				155C24F328CA0AC40067DACE /* TableViewModelType.swift in Sources */,
+				1517C8EC28CB5AB8009D3AE2 /* Box.swift in Sources */,
 				155C250428CA1B360067DACE /* DetailViewModelType.swift in Sources */,
 				155C250728CA1B7E0067DACE /* DetailViewModel.swift in Sources */,
 				155C24FE28CA116F0067DACE /* TableViewCellViewModel.swift in Sources */,
