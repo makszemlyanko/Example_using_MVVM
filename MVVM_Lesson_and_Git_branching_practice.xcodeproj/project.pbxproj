@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1517C8EC28CB5AB8009D3AE2 /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1517C8EB28CB5AB8009D3AE2 /* Box.swift */; };
+		1517C8EF28CB67A7009D3AE2 /* NAME in Resources */ = {isa = PBXBuildFile; fileRef = 1517C8EE28CB67A7009D3AE2 /* NAME */; };
 		155C24CA28C9E4340067DACE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155C24C928C9E4340067DACE /* AppDelegate.swift */; };
 		155C24CC28C9E4340067DACE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155C24CB28C9E4340067DACE /* SceneDelegate.swift */; };
 		155C24D128C9E4340067DACE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 155C24CF28C9E4340067DACE /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		1517C8EB28CB5AB8009D3AE2 /* Box.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
+		1517C8EE28CB67A7009D3AE2 /* NAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = NAME; sourceTree = "<group>"; };
 		155C24C628C9E4340067DACE /* MVVM_Lesson_and_Git_branching_practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVM_Lesson_and_Git_branching_practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		155C24C928C9E4340067DACE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		155C24CB28C9E4340067DACE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				155C24D228C9E4360067DACE /* Assets.xcassets */,
 				155C24D728C9E4360067DACE /* Info.plist */,
 				1517C8EB28CB5AB8009D3AE2 /* Box.swift */,
+				1517C8EE28CB67A7009D3AE2 /* NAME */,
 			);
 			path = MVVM_Lesson_and_Git_branching_practice;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				155C24D628C9E4360067DACE /* LaunchScreen.storyboard in Resources */,
+				1517C8EF28CB67A7009D3AE2 /* NAME in Resources */,
 				155C24D328C9E4360067DACE /* Assets.xcassets in Resources */,
 				155C24D128C9E4340067DACE /* Main.storyboard in Resources */,
 			);
